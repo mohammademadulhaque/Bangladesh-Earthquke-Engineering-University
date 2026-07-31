@@ -1,4 +1,4 @@
-Earthquke-Engineering-University
+BISMILLAHIR RAHMANIR RAHIM ALHAMDULILLAH Earthquake-Engineering-University
 BISMILLAHIR RAHMANIR RAHIM INSHAALLAH it is virtual earthquake engineering university
 markdown# 🏛️ Virtual Earthquake Engineering University (VEEU)
 > *An Open-Source, Global Digital Portal for Seismic Design, Structural Dynamics, and Geotechnical Education.*
